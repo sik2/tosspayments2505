@@ -1,0 +1,136 @@
+[20240627 19:59:13:654][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 50415 (/Users/scbock01/Desktop/test/tutorialv2/html-java/target/classes started by sybock in /Users/scbock01/Desktop/test/tutorialv2/html-java)
+[20240627 19:59:13:655][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240627 19:59:13:676][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240627 19:59:13:676][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240627 19:59:14:118][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240627 19:59:14:121][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240627 19:59:14:123][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240627 19:59:14:123][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240627 19:59:14:142][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240627 19:59:14:142][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 465 ms
+[20240627 19:59:14:307][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240627 19:59:14:312][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240627 19:59:14:320][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240627 19:59:14:325][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.898 seconds (process running for 1.112)
+[20240627 19:59:21:208][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240627 19:59:21:208][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240627 19:59:21:209][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20240627 20:00:41:007][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 52155 (/Users/scbock01/Desktop/test/tutorialv2/html-java/target/classes started by sybock in /Users/scbock01/Desktop/test/tutorialv2/html-java)
+[20240627 20:00:41:008][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240627 20:00:41:031][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240627 20:00:41:031][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240627 20:00:41:498][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240627 20:00:41:503][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240627 20:00:41:504][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240627 20:00:41:504][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240627 20:00:41:525][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240627 20:00:41:525][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 493 ms
+[20240627 20:00:41:700][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240627 20:00:41:706][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240627 20:00:41:712][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240627 20:00:41:721][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.97 seconds (process running for 1.187)
+[20240627 20:00:42:794][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240627 20:00:42:794][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240627 20:00:42:795][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20240627 20:01:07:305][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 52722 (/Users/scbock01/Desktop/test/tutorialv2/html-java/target/classes started by sybock in /Users/scbock01/Desktop/test/tutorialv2/html-java)
+[20240627 20:01:07:306][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240627 20:01:07:328][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240627 20:01:07:328][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240627 20:01:07:749][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240627 20:01:07:753][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240627 20:01:07:754][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240627 20:01:07:755][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240627 20:01:07:775][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240627 20:01:07:776][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 447 ms
+[20240627 20:01:07:954][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240627 20:01:07:962][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240627 20:01:07:969][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240627 20:01:07:974][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.892 seconds (process running for 1.093)
+[20240627 20:01:18:706][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240627 20:01:18:707][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240627 20:01:18:707][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[20240627 20:01:38:135][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 53210 (/Users/scbock01/Desktop/test/tutorialv2/html-java/target/classes started by sybock in /Users/scbock01/Desktop/test/tutorialv2/html-java)
+[20240627 20:01:38:136][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240627 20:01:38:159][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240627 20:01:38:159][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240627 20:01:38:625][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240627 20:01:38:629][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240627 20:01:38:630][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240627 20:01:38:630][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240627 20:01:38:649][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240627 20:01:38:649][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 490 ms
+[20240627 20:01:38:825][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240627 20:01:38:833][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240627 20:01:38:842][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240627 20:01:38:849][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.955 seconds (process running for 1.166)
+[20240627 20:01:39:816][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240627 20:01:39:817][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240627 20:01:39:817][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[20240627 20:04:27:307][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 55840 (/Users/scbock01/Desktop/test/tutorialv2/html-java/target/classes started by sybock in /Users/scbock01/Desktop/test/tutorialv2/html-java)
+[20240627 20:04:27:308][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240627 20:04:27:330][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240627 20:04:27:330][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240627 20:04:27:759][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240627 20:04:27:764][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240627 20:04:27:765][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240627 20:04:27:765][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240627 20:04:27:783][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240627 20:04:27:784][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 453 ms
+[20240627 20:04:27:957][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240627 20:04:27:964][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240627 20:04:27:972][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240627 20:04:27:977][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.917 seconds (process running for 1.191)
+[20240627 20:04:32:578][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240627 20:04:32:578][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240627 20:04:32:579][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20240627 20:04:56:538][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 56316 (/Users/scbock01/Desktop/test/tutorialv2/html-java/target/classes started by sybock in /Users/scbock01/Desktop/test/tutorialv2/html-java)
+[20240627 20:04:56:539][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240627 20:04:56:561][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240627 20:04:56:562][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240627 20:04:56:985][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240627 20:04:56:989][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240627 20:04:56:990][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240627 20:04:56:990][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240627 20:04:57:008][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240627 20:04:57:009][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 447 ms
+[20240627 20:04:57:175][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240627 20:04:57:181][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240627 20:04:57:187][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240627 20:04:57:192][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.877 seconds (process running for 1.103)
+[20240627 20:04:58:581][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240627 20:04:58:582][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240627 20:04:58:582][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[20240627 20:06:48:164][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 58127 (/Users/scbock01/Desktop/test/tutorialv2/html-java/target/classes started by sybock in /Users/scbock01/Desktop/test/tutorialv2/html-java)
+[20240627 20:06:48:168][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240627 20:06:48:191][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240627 20:06:48:192][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240627 20:06:48:637][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240627 20:06:48:641][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240627 20:06:48:642][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240627 20:06:48:642][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240627 20:06:48:662][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240627 20:06:48:662][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 470 ms
+[20240627 20:06:48:833][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240627 20:06:48:839][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240627 20:06:48:846][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240627 20:06:48:851][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.904 seconds (process running for 1.12)
+[20240627 20:06:56:314][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240627 20:06:56:315][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240627 20:06:56:316][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20240627 20:07:35:190][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 58864 (/Users/scbock01/Desktop/test/tutorialv2/html-java/target/classes started by sybock in /Users/scbock01/Desktop/test/tutorialv2/html-java)
+[20240627 20:07:35:191][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240627 20:07:35:215][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240627 20:07:35:216][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240627 20:07:35:647][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240627 20:07:35:651][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240627 20:07:35:652][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240627 20:07:35:652][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240627 20:07:35:671][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240627 20:07:35:671][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 455 ms
+[20240627 20:07:35:835][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240627 20:07:35:841][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240627 20:07:35:848][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240627 20:07:35:854][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.89 seconds (process running for 1.09)
+[20240627 20:07:37:820][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240627 20:07:37:820][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240627 20:07:37:821][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
